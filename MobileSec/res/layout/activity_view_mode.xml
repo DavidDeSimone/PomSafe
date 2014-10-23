@@ -8,14 +8,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.hack.views.ViewMode" >
 
-    <Switch
-        android:id="@+id/RoomSwitch"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true"
-        android:text="@string/monitor" />
-
+  
     <TextView
         android:id="@+id/tempMarker"
         android:layout_width="wrap_content"

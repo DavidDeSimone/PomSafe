@@ -7,17 +7,15 @@
     <string name="hello_world">Hello world!</string>
     <string name="MainTitle">PomSafe</string>
     <string name="login">Log In</string>
+    <string name="desc">Main Logo</string>
     <string name="userNameHint"><b>Username</b></string>
     <string name="passWordHint"><b>Password</b></string>
     <string name="title_activity_view_mode">ViewMode</string>
     <string name="action_settings">Settings</string>
     <string name="temp">Tempurature</string>
     <string name="lights">Lights On</string>
-    
-    
     <string name="monitor">Monitor</string>
+    <string name="title_activity_selection_menu">SelectionMenu</string>
+    <string name="title_activity_menu_fragment">MenuFragment</string>
 
-    
-   
-    
 </resources>
